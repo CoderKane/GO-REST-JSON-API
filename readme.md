@@ -1,5 +1,5 @@
 # Hatchways test
-This is a GO project in which I wrote a simple backend JSON Restful API.
+This is a GO project in which I wrote a simple backend JSON Restful API. The purpose of the API is to return JSON formatted data containing blog posts with the specified tags. The blog posts are retrieved from an external api.
 
 ## Requirements
 GO 1.17+
